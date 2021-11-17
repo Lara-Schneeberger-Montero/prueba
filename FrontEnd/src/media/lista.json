@@ -1,0 +1,154 @@
+[
+    {
+        "img": "https://i.blogs.es/e6e3bc/duramax-ss-650/450_1000.jpg",
+        "category": "Clásicos",
+        "title": "Carro clásico",
+        "location": "Bogotá",
+        "description": "El mejor autito del mundo",
+        "mapa": "place/Bogotá",
+        "calificacion": "9",
+        "caracteristicas": {
+            "marca" : "Audi",
+            "modelo" : "R8",
+            "anio" : "2011",
+            "combustible" : "Nafta",
+            "puertas" : "2",
+            "transmision" : "Manual",
+            "motor" : "5.2",
+            "aire" : "si"
+        }
+    },
+    {
+        "img": "https://www.autonocion.com/wp-content/uploads/2020/04/Chevrolet-Camaro-e1587570480785.jpg ",
+        "category": "Clásicos",
+        "title": "Clásico Camaro",
+        "location": "Buenos Aires",
+        "description": "El mejor clásico de la historia del mundo",
+        "mapa": "place/Buenos+Aires,+Argentina",
+        "calificacion": "10",
+        "caracteristicas": {
+            "marca" : "Chevrolet",
+            "modelo" : "Camaro SS",
+            "anio" : "1966",
+            "combustible" : "Diesel",
+            "puertas" : "5",
+            "transmision" : "Mecánica",
+            "motor" : "3.5",
+            "aire" : "No"
+        }
+    },
+    {
+        "img": "http://www.placervial.com/2/images/wallpapers/g/c84f4dabe77fc31c26b0b018931fd21a.jpg",
+        "category": "Deportivos",
+        "title": "Deportivo urbano",
+        "location": "Medellín",
+        "description": "El mejor deportivo urbano del mundo",
+        "mapa": "place/Medellín,+Antioquia",
+        "calificacion": "8",
+        "caracteristicas": {
+            "marca" : "Infiniti",
+            "modelo" : "Q60 400 Sport",
+            "anio" : "2019",
+            "combustible" : "Gasolina",
+            "puertas" : "3",
+            "transmision" : "Mecánica",
+            "motor" : "3.0",
+            "aire" : "Si"
+        }
+    },
+    {
+        "img": "https://i.blogs.es/c09d77/1366_2000/1366_2000.jpg",
+        "category": "Deportivos",
+        "title": "Deportivo Honda",
+        "location": "Tandil",
+        "description": "El mejor Honda deportivo del mundo",
+        "mapa": "place/Tandil,+Provincia+de+Buenos+Aires,+Argentina",
+        "calificacion": "6",
+        "caracteristicas": {
+            "marca" : "Honda",
+            "modelo" : "Civic Type R",
+            "anio" : "2017",
+            "combustible" : "Gasolina",
+            "puertas" : "3",
+            "transmision" : "Mecánica",
+            "motor" : "2.0",
+            "aire" : "Si"
+        }
+    },
+    {
+        "img": "https://autosysaludcom.files.wordpress.com/2018/12/2018-Honda-CR-V.jpg?quality=80&strip=all",
+        "category": "Familiar",
+        "title": "Familiar 5 puertas",
+        "location": "Cartagena",
+        "description": "El mejor 5 puertas del mundo",
+        "mapa": "place/Cartagena,+Provincia+de+Cartagena,+Bolívar",
+        "calificacion": "8",
+        "caracteristicas": {
+            "marca" : "Honda",
+            "modelo" : " CR-V 2018",
+            "anio" : "2018",
+            "combustible" : "Gasolina",
+            "puertas" : "5",
+            "transmision" : "Automática",
+            "motor" : "1.6",
+            "aire" : "Si"
+        }
+    },
+    {
+        "img": "https://i.blogs.es/b18fcc/suzuki-ertiga-2019/840_560.jpg",
+        "category": "Familiar",
+        "title": "Familiar 7 asientos",
+        "location": "Rosario",
+        "description": "El mejor 7 asientos del mundo",
+        "mapa": "place/Rosario,+Santa+Fe,+Argentina",
+        "calificacion": "7",
+         "caracteristicas": {
+            "marca" : "Suzuki",
+            "modelo" : "Ertiga",
+            "anio" : "2019",
+            "combustible" : "Gasolina",
+            "puertas" : "5",
+            "transmision" : "Automática",
+            "motor" : "1.4",
+            "aire" : "Si"
+        }
+    },
+    {
+        "img":"https://static.motor.es/fotos-noticias/2021/03/ferrari-288-gto-nero-dk-engineering-202176004-1615107868_1.jpg",
+        "category": "De lujo",
+        "title": "De lujo Ferrari 288 GTO",
+        "location": "Cali",
+        "description": "El mejor Ferrari del mundo",
+        "mapa": "place/Cali,+Valle+del+Cauca",
+        "calificacion": "9",
+         "caracteristicas": {
+            "marca" : "Ferrari",
+            "modelo" : "288 GTO",
+            "anio" : "1984",
+            "combustible" : "Gasolina",
+            "puertas" : "3",
+            "transmision" : "Mecánica",
+            "motor" : "2.5",
+            "aire" : "No"
+        }
+    },
+    {
+        "img": "https://noticias.coches.com/wp-content/uploads/2016/04/ares-design_lamborghini-huracan-lb724-2015_r6.jpg",
+        "category": "De lujo",
+        "title": "De lujo Lambo",
+        "location": "Cordoba",
+        "description": "El mejor Lamborghini aventador del mundo",
+        "mapa": "place/Córdoba,+Argentina",
+        "calificacion": "6",
+         "caracteristicas": {
+            "marca" : "Lamborghini",
+            "modelo" : "Ares-Design Huracan",
+            "anio" : "2015",
+            "combustible" : "Gasolina",
+            "puertas" : "3",
+            "transmision" : "Mecánica",
+            "motor" : "3.2",
+            "aire" : "Si"
+        }
+    }
+]

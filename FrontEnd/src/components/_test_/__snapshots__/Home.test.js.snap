@@ -1,0 +1,1238 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test de home Recomendation 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <section
+        class="sc-dkPtRN ipAYVi"
+      >
+        <div
+          class="container"
+        >
+          <h2>
+            Recomendaciones
+          </h2>
+          <div
+            class="cards"
+            data-testid="Cards"
+          >
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="Carro clásico"
+                    src="https://i.blogs.es/e6e3bc/duramax-ss-650/450_1000.jpg"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        Clásicos
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        Carro clásico
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        9
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Muy bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Bogotá
+                        <a
+                          href="https://www.google.com/maps/place/Bogotá"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor autito del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="Clásico Camaro"
+                    src="https://www.autonocion.com/wp-content/uploads/2020/04/Chevrolet-Camaro-e1587570480785.jpg "
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        Clásicos
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        Clásico Camaro
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        10
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Muy bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Buenos Aires
+                        <a
+                          href="https://www.google.com/maps/place/Buenos+Aires,+Argentina"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor clásico de la historia del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="Deportivo urbano"
+                    src="http://www.placervial.com/2/images/wallpapers/g/c84f4dabe77fc31c26b0b018931fd21a.jpg"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        Deportivos
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        Deportivo urbano
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        8
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Muy bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Medellín
+                        <a
+                          href="https://www.google.com/maps/place/Medellín,+Antioquia"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor deportivo urbano del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="Deportivo Honda"
+                    src="https://i.blogs.es/c09d77/1366_2000/1366_2000.jpg"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        Deportivos
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        Deportivo Honda
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        6
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Tandil
+                        <a
+                          href="https://www.google.com/maps/place/Tandil,+Provincia+de+Buenos+Aires,+Argentina"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor Honda deportivo del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="Familiar 5 puertas"
+                    src="https://autosysaludcom.files.wordpress.com/2018/12/2018-Honda-CR-V.jpg?quality=80&strip=all"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        Familiar
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        Familiar 5 puertas
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        8
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Muy bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Cartagena
+                        <a
+                          href="https://www.google.com/maps/place/Cartagena,+Provincia+de+Cartagena,+Bolívar"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor 5 puertas del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="Familiar 7 asientos"
+                    src="https://i.blogs.es/b18fcc/suzuki-ertiga-2019/840_560.jpg"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        Familiar
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        Familiar 7 asientos
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        7
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Rosario
+                        <a
+                          href="https://www.google.com/maps/place/Rosario,+Santa+Fe,+Argentina"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor 7 asientos del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="De lujo Ferrari 288 GTO"
+                    src="https://static.motor.es/fotos-noticias/2021/03/ferrari-288-gto-nero-dk-engineering-202176004-1615107868_1.jpg"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        De lujo
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        De lujo Ferrari 288 GTO
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        9
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Muy bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Cali
+                        <a
+                          href="https://www.google.com/maps/place/Cali,+Valle+del+Cauca"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor Ferrari del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div
+              class="sc-gsDKAQ fEtXLX"
+            >
+              <div
+                class="card-container"
+              >
+                <div
+                  class="card-img"
+                >
+                  <img
+                    alt="De lujo Lambo"
+                    src="https://noticias.coches.com/wp-content/uploads/2016/04/ares-design_lamborghini-huracan-lb724-2015_r6.jpg"
+                  />
+                </div>
+                <div
+                  class="card-body"
+                >
+                  <div
+                    class="card-cabecera"
+                    data-testid="card-cabecera"
+                  >
+                    <div>
+                      <h5
+                        class="card-categories"
+                      >
+                        De lujo
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                        <img
+                          alt="star"
+                          src="star.svg"
+                        />
+                      </h5>
+                      <h4
+                        class="card-title"
+                      >
+                        De lujo Lambo
+                      </h4>
+                    </div>
+                    <div
+                      class="card-title-points"
+                    >
+                      <h4>
+                        6
+                      </h4>
+                      <h5
+                        data-testid="calificacion"
+                      >
+                        Bueno
+                      </h5>
+                    </div>
+                  </div>
+                  <div
+                    class="card-description"
+                    data-testid="card-description"
+                  >
+                    <div
+                      class="card-ubicacion"
+                    >
+                      <p>
+                        <img
+                          alt="point"
+                          src="point.svg"
+                        />
+                        Cordoba
+                        <a
+                          href="https://www.google.com/maps/place/Córdoba,+Argentina"
+                          rel="noreferrer"
+                          target="_blank"
+                        >
+                          VER EN EL MAPA
+                        </a>
+                      </p>
+                    </div>
+                    <div
+                      class="card-accesorios"
+                      data-testid="card-accesorios"
+                    >
+                      <img
+                        alt="wifi"
+                        src="wifi.svg"
+                      />
+                      <img
+                        alt="gps"
+                        src="gps.svg"
+                      />
+                    </div>
+                    <p
+                      class="card-text"
+                    >
+                      El mejor Lamborghini aventador del mundo
+                    </p>
+                  </div>
+                  <a
+                    href="/producto"
+                  >
+                    <button>
+                      Ver más
+                    </button>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <div>
+      <div
+        class="sc-gsDKAQ fEtXLX"
+      >
+        <div
+          class="card-container"
+        >
+          <div
+            class="card-img"
+          >
+            <img
+              src="https://i.blogs.es/e6e3bc/duramax-ss-650/450_1000.jpg"
+            />
+          </div>
+          <div
+            class="card-body"
+          >
+            <div
+              class="card-cabecera"
+              data-testid="card-cabecera"
+            >
+              <div>
+                <h5
+                  class="card-categories"
+                >
+                  <img
+                    alt="star"
+                    src="star.svg"
+                  />
+                  <img
+                    alt="star"
+                    src="star.svg"
+                  />
+                  <img
+                    alt="star"
+                    src="star.svg"
+                  />
+                  <img
+                    alt="star"
+                    src="star.svg"
+                  />
+                  <img
+                    alt="star"
+                    src="star.svg"
+                  />
+                </h5>
+                <h4
+                  class="card-title"
+                />
+              </div>
+              <div
+                class="card-title-points"
+              >
+                <h4>
+                  9
+                </h4>
+                <h5
+                  data-testid="calificacion"
+                >
+                  Muy bueno
+                </h5>
+              </div>
+            </div>
+            <div
+              class="card-description"
+              data-testid="card-description"
+            >
+              <div
+                class="card-ubicacion"
+              >
+                <p>
+                  <img
+                    alt="point"
+                    src="point.svg"
+                  />
+                  <a
+                    href="https://www.google.com/maps/place/Bogotá"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    VER EN EL MAPA
+                  </a>
+                </p>
+              </div>
+              <div
+                class="card-accesorios"
+                data-testid="card-accesorios"
+              >
+                <img
+                  alt="wifi"
+                  src="wifi.svg"
+                />
+                <img
+                  alt="gps"
+                  src="gps.svg"
+                />
+              </div>
+              <p
+                class="card-text"
+              />
+            </div>
+            <a
+              href="/producto"
+            >
+              <button>
+                Ver más
+              </button>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="sc-gsDKAQ fEtXLX"
+    >
+      <div
+        class="card-container"
+      >
+        <div
+          class="card-img"
+        >
+          <img
+            src="https://i.blogs.es/e6e3bc/duramax-ss-650/450_1000.jpg"
+          />
+        </div>
+        <div
+          class="card-body"
+        >
+          <div
+            class="card-cabecera"
+            data-testid="card-cabecera"
+          >
+            <div>
+              <h5
+                class="card-categories"
+              >
+                <img
+                  alt="star"
+                  src="star.svg"
+                />
+                <img
+                  alt="star"
+                  src="star.svg"
+                />
+                <img
+                  alt="star"
+                  src="star.svg"
+                />
+                <img
+                  alt="star"
+                  src="star.svg"
+                />
+                <img
+                  alt="star"
+                  src="star.svg"
+                />
+              </h5>
+              <h4
+                class="card-title"
+              />
+            </div>
+            <div
+              class="card-title-points"
+            >
+              <h4>
+                9
+              </h4>
+              <h5
+                data-testid="calificacion"
+              >
+                Muy bueno
+              </h5>
+            </div>
+          </div>
+          <div
+            class="card-description"
+            data-testid="card-description"
+          >
+            <div
+              class="card-ubicacion"
+            >
+              <p>
+                <img
+                  alt="point"
+                  src="point.svg"
+                />
+                <a
+                  href="https://www.google.com/maps/place/Bogotá"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  VER EN EL MAPA
+                </a>
+              </p>
+            </div>
+            <div
+              class="card-accesorios"
+              data-testid="card-accesorios"
+            >
+              <img
+                alt="wifi"
+                src="wifi.svg"
+              />
+              <img
+                alt="gps"
+                src="gps.svg"
+              />
+            </div>
+            <p
+              class="card-text"
+            />
+          </div>
+          <a
+            href="/producto"
+          >
+            <button>
+              Ver más
+            </button>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

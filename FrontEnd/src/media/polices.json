@@ -1,0 +1,17 @@
+[
+    {
+        "id": "1",
+        "title": "Normas del auto",
+        "paragraphs": ["No fumar", "Horario de entrega", "No se permiten animales"]
+    },
+    {
+        "id": "2",
+        "title": "Salud y seguridad",
+        "paragraphs": ["Deposito en caso de accidentes", "Cualquier multa o infracción cometida por el conductor estara a su cargo", "No se permiten animales"]
+    },
+    {
+        "id": "3",
+        "title": "Politica de cancelación",
+        "paragraphs": ["Agrega las fechas de tu alquiler para obtener los detalles de cancelación de tu vehículo"]
+    }  
+]
